@@ -1,4 +1,4 @@
-# Face Mask Detection
+# Face Mask Detection 
 Face Mask Detection system based on computer vision and deep learning using OpenCV and Tensorflow/Keras.
 
 - Used opencv’s Object detection techniques to detect faces.
@@ -23,4 +23,4 @@ Face Mask Detection system based on computer vision and deep learning using Open
 
 - Can be used in CCTV cameras for capturing wide peoples or group of peoples.
 
-- Can be improved for further as per requiremnts.
+- Can be improved for further as per requiremnts. (Python V-3.7.7)
